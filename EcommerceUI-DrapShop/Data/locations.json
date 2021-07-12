@@ -1,0 +1,44 @@
+[
+  {
+    "id" : "Colombia",
+    "name" : "Colombia",
+    "image" : "img1",
+    "latitude" : 2.1377938,
+    "longitude" : -72.7959237
+  },
+  {
+    "id" : "Ecuador",
+    "name" : "Ecuador",
+    "image" : "img2",
+    "latitude" : -0.9817791,
+    "longitude" : -76.5971932
+  },
+  {
+    "id" : "Peru",
+    "name" : "Peru",
+    "image" : "img3",
+    "latitude" : -9.1303665,
+    "longitude" : -84.0716539
+  },
+  {
+    "id" : "Brasil",
+    "name" : "Brasil",
+    "image" : "img4",
+    "latitude" : 3.8495757,
+    "longitude" : 33.7525049
+  },
+  {
+    "id" : "Bolivia",
+    "name" : "Bolivia",
+    "image" : "img5",
+    "latitude" : -13.700415,
+    "longitude" : -69.7176533
+  },
+  {
+    "id" : "Uruguay",
+    "name" : "Uruguay",
+    "image" : "img6",
+    "latitude" : -32.6005528,
+    "longitude" : -58.0286909
+  }
+]
